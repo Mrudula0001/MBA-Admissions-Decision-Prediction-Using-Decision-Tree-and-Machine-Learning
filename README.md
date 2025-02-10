@@ -1,9 +1,5 @@
 # MBA-Admissions-Decision-Prediction-Using-Decision-Tree
 
-Problem Statement:
-Universities receive thousands of MBA applications each year, making it challenging to make fair, data-driven admission decisions. This project aims to predict the admission status (Admit, Waitlist, or Deny) based on applicants' GPA, GMAT scores, work experience, major, and other demographic and academic factors. By leveraging Decision Tree and other machine learning models, this project provides insights into key admission factors, helps identify areas for applicants to improve, and supports universities in optimizing their admission strategies.
-
-
 ## Overview
 
 This project uses machine learning techniques to predict MBA admission outcomes (**Admit, Waitlist, or Deny**) based on various academic and demographic factors. By analyzing historical admission data, we aim to help universities streamline their selection process and provide applicants with actionable insights to enhance their profiles.
